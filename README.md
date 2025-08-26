@@ -2,9 +2,11 @@
 
 A sophisticated multi-agent travel assistant built with LangGraph, FastAPI, and OpenAI. The system intelligently handles travel-related queries, specifically focusing on flight and hotel searches, with built-in context management and request handling.
 
-## Architecture Overview
+## Architecture Overview And Demo Link
 
 ![Architecture Diagram](image.png)
+
+![Demo Video](https://vimeo.com/1112973146?fl=pl&fe=sh)
 
 ### Agent Responsibilities
 
@@ -42,7 +44,7 @@ A sophisticated multi-agent travel assistant built with LangGraph, FastAPI, and 
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/CoderOMaster/Travel-agent-chatbot.git)
+   git clone https://github.com/CoderOMaster/Travel-agent-chatbot.git
    cd travel-agent
    ```
 

@@ -42,7 +42,7 @@ A sophisticated multi-agent travel assistant built with LangGraph, FastAPI, and 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/CoderOMaster/Travel-agent-chatbot.git)
    cd travel-agent
    ```
 

@@ -1,0 +1,20 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "find flights from asr to chd"
+    },
+    {
+      "role": "assistant",
+      "content": "Here are some flight options I found:\n\n1. **Find Cheap Flights from Amritsar to Chandigarh (ATQ - IXC)**\n   URL: https://www.google.com/travel/flights/flights-from-amritsar-to-chandigarh.html\n   Fastest flight, 3 hr 5 min, The fastest flight with stops from Amritsar to Chandigarh takes 3 hr 5 min. Nonstop flights, None, There are no direct flights\n\n2. **Amritsar to Chandigarh Flights, Fares ...**\n   URL: https://www.makemytrip.com/flights/amritsar-chandigarh-cheap-airtickets.html\n   A: Flight prices from Amritsar to Chandigarh vary, but deals this week show fares starting from ₹5059. Typically, one-way tickets fall within the ₹5,000 to ₹\n\n3. **Cheap Flights from Sri Guru Ram Das Ji Intl. Airport ( ...**\n   URL: https://www.expedia.com/lp/flights/atq/ixc/sri-guru-ram-das-ji-intl-airport-to-chandigarh\n   Cheap Flights from Sri Guru Ram Das Ji Intl. Airport (ATQ) to Chandigarh (IXC) start at $62 for one-way and $114 for round trip. Earn your airline miles on\n\n4. **Cheap Flights from Amritsar (ATQ) to Chandigarh (IXC)**\n   URL: https://www.skyscanner.com/routes/atq/ixc/amritsar-to-chandigarh.html\n   Find the best deals on flights from Amritsar (ATQ) to Chandigarh (IXC). Compare prices from hundreds of major travel agents and airlines, all in one search.\n\n5. **Amritsar to Chandigarh Flights**\n   URL: https://www.goindigo.in/domestic-flights/amritsar-to-chandigarh-flights.html\n   Book Amritsar to Chandigarh flight tickets at cheapest price. Airfares at ₹5695 and avail IndiGo flight offers, 10% discount and cashback on goIndiGo.in [PARTIAL]"
+    },
+    {
+      "role": "user",
+      "content": "also find me a hotel"
+    },
+    {
+      "role": "assistant",
+      "content": "Here are some hotel options I found:\n\n1. **Hotels.com - Deals & Discounts for Hotel Reservations from Luxury ...**\n   URL: https://www.hotels.com/\n   Bot or Not? www.hotels.com ## Show us your human side... We can't tell if you're a human or a bot. 4a4c4907-508b-4c40-ae38-ef349d184be4\n\n2. **Find Cheap Hotel Deals & Discounts - KAYAK**\n   URL: https://www.kayak.com/hotels\n   ## Find Hotels KAYAK searches for hotel deals on hundreds of hotel comparison sites to help you find cheap hotels, holiday lettings, bed and breakfasts, motels, inns, resorts and more. ### Boston Hotels ### Paris Hotels ### Amsterdam Hotels * Hotel Levell$84+ * Hotel Hive$123+ ### Barcelona Hotels #...\n\n3. **Discover Hotels For Your Next Trip - Google hotels**\n   URL: https://www.google.com/travel/hotels\n   Start planning your next trip with Google hotels. Discover top-rated hotel rooms and vacation rentals, along with flights, and things to do.\n\n4. **Book last-minute hotels & more - Booking.com**\n   URL: https://www.booking.com/hotel/index.html\n   # Find the perfect hotel on Booking.com ## A whole world of hotels 9981 hotels 10307 hotels 2950 hotels 2906 hotels 1942 hotels ### Popular hotels * Tembo House Hotel 10018 hotels 28451 hotels 4329 hotels 5710 hotels 524 hotels ### Popular hotels 23195 hotels 25050 hotels 2536 hotels 1081 hotels 509...\n\n5. **Hotels by Hilton - Book the Best Rates Across All Brands**\n   URL: https://www.hilton.com/en/\n   Image 1: Hilton for the stay Image 2: Hilton for the stay Image 4 Image 5 Image 6 Image 7 Image 8 Image 9 Image 10 Image 11 Image 12 Image 13 Hilton beach hotels offer more than a view. Be among the first to stay at Hilton’s newest openings. Image 18 Image 19 Image 20 Image 21 Image 22 Image 23 Imag... [PARTIAL]"
+    }
+  ]
+}
